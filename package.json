@@ -1,0 +1,22 @@
+{
+  "name": "e2eapitester",
+  "version": "1.0.0",
+  "description": "e2e testing library for testing APIs and the changes they make against a DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connyIsTired/E2EApiTester.git"
+  },
+  "author": "conny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connyIsTired/E2EApiTester/issues"
+  },
+  "homepage": "https://github.com/connyIsTired/E2EApiTester#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
